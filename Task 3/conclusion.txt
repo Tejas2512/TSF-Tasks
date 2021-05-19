@@ -1,0 +1,8 @@
+1. California, Newyork and washington are states where company's selling and overall profit is high. 
+   so, they don't need to worry about in these state.
+
+2. In Florida, Ohio and Taxes are among the top 10 states where company's sales is more 
+   but they are not able to make profit there.
+
+3. Reason behind high sales and low profit is, furniture based item sales more in that perticular state.
+   
